@@ -6,6 +6,7 @@ Testing Saber [saber.land](https://saber.land)
 Run `npm install`
 
 ## Guide
-1. Build for development: `npm run serve`
+1. Build for development: `npm run dev`
 2. Build for production: `npm run build`
+3. Build for deployment: `npm run deploy`
 
