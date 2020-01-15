@@ -8,3 +8,6 @@ permalinks:
 plugins:
   - resolve: saber-plugin-query-posts
 
+build:
+  publicUrl: /chan-blog-vue-saber
+
